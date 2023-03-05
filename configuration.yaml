@@ -1,0 +1,14 @@
+
+directory:
+  source: test/_Uni
+  target: test/to
+
+options:
+  date:
+    any:
+      from: 2021-01-01
+      to: 2022-12-31
+  copy:
+    created: true
+    last_modified: true
+
